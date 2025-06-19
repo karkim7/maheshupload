@@ -78,6 +78,7 @@ class Program
         }
 
         Console.WriteLine("\n Student Report: 2025 June 19 ");
+        Console.WriteLine("\n Welcome to GitHub: 2025");
         foreach (Student s in students)
         {
             s.DisplayInfo();
