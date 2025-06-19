@@ -77,7 +77,7 @@ class Program
             students[i] = new Student(id, name, marks);
         }
 
-        Console.WriteLine("\n--- Student Report ---");
+        Console.WriteLine("\n Student Report: 2025 June 19 ");
         foreach (Student s in students)
         {
             s.DisplayInfo();
