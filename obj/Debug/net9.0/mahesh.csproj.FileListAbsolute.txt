@@ -1,0 +1,14 @@
+D:\mahesh\bin\Debug\net9.0\mahesh.exe
+D:\mahesh\bin\Debug\net9.0\mahesh.deps.json
+D:\mahesh\bin\Debug\net9.0\mahesh.runtimeconfig.json
+D:\mahesh\bin\Debug\net9.0\mahesh.dll
+D:\mahesh\bin\Debug\net9.0\mahesh.pdb
+D:\mahesh\obj\Debug\net9.0\mahesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\mahesh\obj\Debug\net9.0\mahesh.AssemblyInfoInputs.cache
+D:\mahesh\obj\Debug\net9.0\mahesh.AssemblyInfo.cs
+D:\mahesh\obj\Debug\net9.0\mahesh.csproj.CoreCompileInputs.cache
+D:\mahesh\obj\Debug\net9.0\mahesh.dll
+D:\mahesh\obj\Debug\net9.0\refint\mahesh.dll
+D:\mahesh\obj\Debug\net9.0\mahesh.pdb
+D:\mahesh\obj\Debug\net9.0\mahesh.genruntimeconfig.cache
+D:\mahesh\obj\Debug\net9.0\ref\mahesh.dll
